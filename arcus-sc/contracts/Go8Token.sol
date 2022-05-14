@@ -8,7 +8,7 @@ import "./ERC20.sol";
 import "./ERC20Burnable.sol";
 import "./ERC20Pausable.sol";
 
-contract ArcusTokenTest is
+contract GoInnovateToken is
     Context,
     AccessControl,
     ERC20Burnable,
